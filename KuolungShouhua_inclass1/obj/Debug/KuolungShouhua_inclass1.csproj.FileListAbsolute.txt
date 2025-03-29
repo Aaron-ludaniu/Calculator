@@ -1,0 +1,10 @@
+C:\Users\Aaron\source\repos\KuolungShouhua_inclass1\KuolungShouhua_inclass1\bin\Debug\KuolungShouhua_inclass1.exe.config
+C:\Users\Aaron\source\repos\KuolungShouhua_inclass1\KuolungShouhua_inclass1\bin\Debug\KuolungShouhua_inclass1.exe
+C:\Users\Aaron\source\repos\KuolungShouhua_inclass1\KuolungShouhua_inclass1\bin\Debug\KuolungShouhua_inclass1.pdb
+C:\Users\Aaron\source\repos\KuolungShouhua_inclass1\KuolungShouhua_inclass1\obj\Debug\KuolungShouhua_inclass1.csproj.AssemblyReference.cache
+C:\Users\Aaron\source\repos\KuolungShouhua_inclass1\KuolungShouhua_inclass1\obj\Debug\KuolungShouhua_inclass1.MainForm.resources
+C:\Users\Aaron\source\repos\KuolungShouhua_inclass1\KuolungShouhua_inclass1\obj\Debug\KuolungShouhua_inclass1.Properties.Resources.resources
+C:\Users\Aaron\source\repos\KuolungShouhua_inclass1\KuolungShouhua_inclass1\obj\Debug\KuolungShouhua_inclass1.csproj.GenerateResource.cache
+C:\Users\Aaron\source\repos\KuolungShouhua_inclass1\KuolungShouhua_inclass1\obj\Debug\KuolungShouhua_inclass1.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\KuolungShouhua_inclass1\KuolungShouhua_inclass1\obj\Debug\KuolungShouhua_inclass1.exe
+C:\Users\Aaron\source\repos\KuolungShouhua_inclass1\KuolungShouhua_inclass1\obj\Debug\KuolungShouhua_inclass1.pdb
